@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Aljosa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Aljosa\\.nuget\\packages"
+    ]
+  }
+}
